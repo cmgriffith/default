@@ -1,6 +1,6 @@
 {
     "from": "User",
-    "inherits": "Sovol Zero 0.4 nozzle",
+    "inherits": "MyKlipper 0.4 nozzle",
     "is_custom_defined": "0",
     "machine_end_gcode": "END_PRINT",
     "name": "SV Zero 0.4",
