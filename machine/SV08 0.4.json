@@ -26,6 +26,7 @@
         "350x350",
         "0x350"
     ],
+    "printable_height": "300",
     "printer_settings_id": "SV08 0.4",
     "retraction_speed": [
         "50"
