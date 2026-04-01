@@ -1,6 +1,6 @@
 {
     "compatible_printers": [
-        "MyKlipper 0.4 nozzle"
+        "SV08 0.4"
     ],
     "default_filament_colour": [
         "#F0F0F0"
@@ -24,7 +24,7 @@
         "60"
     ],
     "filament_settings_id": [
-        "Matte PLA 0.24 @ SV08 0.4"
+        "Matte PLA @ SV08 0.4"
     ],
     "filament_wipe": [
         "1"
@@ -44,7 +44,7 @@
     ],
     "inherits": "Generic PLA @System",
     "is_custom_defined": "0",
-    "name": "Matte PLA 0.24 @ SV08 0.4",
+    "name": "Matte PLA @ SV08 0.4",
     "nozzle_temperature": [
         "210"
     ],
