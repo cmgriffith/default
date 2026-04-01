@@ -61,7 +61,7 @@
     "full_fan_speed_layer": [
         "3"
     ],
-    "inherits": "My Generic PETG",
+    "inherits": "Generic PETG @System",
     "is_custom_defined": "0",
     "name": "PETG BASE @ ASWX1 0.6",
     "nozzle_temperature": [

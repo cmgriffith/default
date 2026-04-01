@@ -1,6 +1,7 @@
 {
     "from": "User",
     "inherits": "0.24mm Draft @MyKlipper",
+    "compatible_printers": "SV08 0.4",
     "initial_layer_print_height": "0.24",
     "is_custom_defined": "0",
     "name": "0.24_PLA_Matte @ SV08 0.4",

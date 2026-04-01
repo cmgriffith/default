@@ -4,7 +4,7 @@
     "from": "User",
     "inherits": "0.20mm Standard @MyKlipper",
     "compatible_printers": [
-        "Sovol Zero 0.4"
+        "SV Zero 0.4"
     ],
     "initial_layer_infill_speed": "120",
     "initial_layer_speed": "85",
@@ -12,7 +12,7 @@
     "is_custom_defined": "0",
     "name": "0.20 ABS @ SV Zero 0.4",
     "outer_wall_speed": "160",
-    "print_settings_id": "0.20 ABS @ Sovol Zero 0.4",
+    "print_settings_id": "0.20 ABS @ SV Zero 0.4",
     "skirt_distance": "1.2",
     "skirt_loops": "2",
     "slow_down_layers": "1",
