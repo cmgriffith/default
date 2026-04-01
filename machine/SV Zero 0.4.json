@@ -5,6 +5,12 @@
     "machine_end_gcode": "END_PRINT",
     "name": "SV Zero 0.4",
     "print_host": "192.168.10.118",
+    "printable_area": [
+        "0x0",
+        "150x0",
+        "150x150",
+        "0x150"
+    ],
     "printer_settings_id": "SV Zero 0.4",
     "retract_when_changing_layer": [
         "0"

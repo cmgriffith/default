@@ -2,14 +2,14 @@
     "bottom_shell_layers": "5",
     "bottom_solid_infill_flow_ratio": "1.01",
     "brim_type": "no_brim",
+    "compatible_printers": [
+        "SV Zero 0.4"
+    ],
     "default_acceleration": "15000",
     "enable_overhang_speed": "0",
-    "enable_support": "1",
     "from": "User",
-    "gap_infill_speed": "100",
     "infill_wall_overlap": "20%",
     "inherits": "0.20mm Standard @MyKlipper",
-    "compatible_printers": ["SV Zero 0.4"],
     "initial_layer_infill_speed": "60",
     "initial_layer_line_width": "0.56",
     "initial_layer_print_height": "0.24",
@@ -27,7 +27,6 @@
     "outer_wall_line_width": "0.48",
     "outer_wall_speed": "50",
     "print_settings_id": "0.24_ABS_STD @ SV Zero 0.4",
-    "seam_gap": "10",
     "seam_position": "aligned_back",
     "skirt_distance": "1",
     "skirt_loops": "2",
@@ -45,7 +44,6 @@
     "travel_acceleration": "20000",
     "travel_speed": "800",
     "version": "2.3.1.10",
-    "wall_generator": "arachne",
     "wall_loops": "5",
     "xy_hole_compensation": "0.09"
 }
