@@ -2,6 +2,7 @@
     "deretraction_speed": [
         "50"
     ],
+    "fan_kickstart": "0.5",
     "fan_speedup_time": "1.5",
     "from": "User",
     "inherits": "MyKlipper 0.4 nozzle",

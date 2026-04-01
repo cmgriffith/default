@@ -1,0 +1,16 @@
+{
+    "from": "User",
+    "inherits": "Sovol Zero 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "name": "SV Zero 0.4",
+    "print_host": "192.168.10.118",
+    "printer_settings_id": "SV Zero 0.4",
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "version": "2.3.1.10",
+    "wipe": [
+        "0"
+    ]
+}
