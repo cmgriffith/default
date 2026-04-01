@@ -1,0 +1,106 @@
+{
+    "close_fan_the_first_x_layers": [
+        "5"
+    ],
+    "compatible_printers": [
+        "SV08 0.4"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "70"
+    ],
+    "cool_plate_temp": [
+        "0"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "0"
+    ],
+    "default_filament_colour": [
+        "#FF7800"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "70"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "100"
+    ],
+    "fan_max_speed": [
+        "10"
+    ],
+    "fan_min_speed": [
+        "5"
+    ],
+    "filament_cost": [
+        "13"
+    ],
+    "filament_density": [
+        "1.06"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode\n"
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_retract_lift_enforce": [
+        "All Surfaces"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "0.5"
+    ],
+    "filament_retraction_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "ABS BASE @ SV08 0.4"
+    ],
+    "filament_vendor": [
+        "eSUN"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "filament_z_hop": [
+        "0.3"
+    ],
+    "filament_z_hop_types": [
+        "Auto Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "My Generic ABS",
+    "is_custom_defined": "0",
+    "name": "ABS BASE @ SV08 0.4",
+    "nozzle_temperature_range_high": [
+        "280"
+    ],
+    "overhang_fan_speed": [
+        "30"
+    ],
+    "pressure_advance": [
+        "0.019"
+    ],
+    "required_nozzle_HRC": [
+        "3"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "version": "2.3.1.10"
+}

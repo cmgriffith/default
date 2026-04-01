@@ -1,0 +1,58 @@
+{
+    "compatible_printers": [
+        "KP3S 0.4"
+    ],
+    "default_filament_colour": [
+        "#0080FF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_deretraction_speed": [
+        "40"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_retract_before_wipe": [
+        "70%"
+    ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "3"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "SPLA BASE @ KP3S 0.4"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "filament_z_hop_types": [
+        "Auto Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "My Generic PETG",
+    "is_custom_defined": "0",
+    "name": "SPLA BASE @ KP3S 0.4",
+    "pressure_advance": [
+        "0.2"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "version": "2.3.1.10"
+}

@@ -1,0 +1,61 @@
+{
+    "compatible_printers": [
+        "KP3S 0.4"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "70"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_retract_lift_enforce": [
+        "All Surfaces"
+    ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "0.3"
+    ],
+    "filament_retraction_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "PETG BASE @ KP3S 0.4"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "filament_z_hop": [
+        "0.5"
+    ],
+    "filament_z_hop_types": [
+        "Auto Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "78"
+    ],
+    "inherits": "My Generic PETG",
+    "is_custom_defined": "0",
+    "name": "PETG BASE @ KP3S 0.4",
+    "nozzle_temperature": [
+        "233"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "pressure_advance": [
+        "0.042"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "version": "2.3.1.10"
+}

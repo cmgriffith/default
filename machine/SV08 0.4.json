@@ -1,0 +1,34 @@
+{
+    "deretraction_speed": [
+        "50"
+    ],
+    "fan_speedup_time": "1.5",
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_extruding": [
+        "7100"
+    ],
+    "machine_max_acceleration_x": [
+        "30000"
+    ],
+    "machine_max_acceleration_y": [
+        "30000"
+    ],
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] MATERIAL=[filament_type]\n\n",
+    "name": "SV08 0.4",
+    "print_host": "192.168.10.109",
+    "printable_area": [
+        "0x0",
+        "350x0",
+        "350x350",
+        "0x350"
+    ],
+    "printer_settings_id": "SV08 0.4",
+    "retraction_speed": [
+        "50"
+    ],
+    "time_cost": "0.2",
+    "version": "2.3.1.10"
+}
