@@ -30,8 +30,7 @@
         "SV08 0.4"
     ],
     "compatible_printers_condition": "",
-    "compatible_prints": [
-    ],
+    "compatible_prints": [],
     "compatible_prints_condition": "",
     "complete_print_exhaust_fan_speed": [
         "70"
@@ -88,7 +87,7 @@
         "1.27"
     ],
     "filament_deretraction_speed": [
-        "60"
+        "50"
     ],
     "filament_diameter": [
         "1.75"
@@ -97,7 +96,7 @@
         "; filament end gcode\n"
     ],
     "filament_flow_ratio": [
-        "0.96"
+        "1.03"
     ],
     "filament_is_support": [
         "0"
@@ -112,7 +111,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "26"
+        "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -160,13 +159,13 @@
         "nil"
     ],
     "filament_retraction_speed": [
-        "60"
+        "50"
     ],
     "filament_settings_id": [
         "PETG BASE @ SV08 0.4"
     ],
     "filament_shrink": [
-        "100%"
+        "99.77%"
     ],
     "filament_shrinkage_compensation_z": [
         "100%"
@@ -208,17 +207,17 @@
         "0.1"
     ],
     "filament_z_hop_types": [
-        "Slope Lift"
+        "Spiral Lift"
     ],
     "from": "User",
     "full_fan_speed_layer": [
         "0"
     ],
     "hot_plate_temp": [
-        "70"
+        "75"
     ],
     "hot_plate_temp_initial_layer": [
-        "71"
+        "75"
     ],
     "idle_temperature": [
         "0"
@@ -254,7 +253,7 @@
         "0.4157"
     ],
     "pressure_advance": [
-        "0.028"
+        "0.054"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
