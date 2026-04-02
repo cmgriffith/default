@@ -2,7 +2,7 @@
     "type": "machine",
     "name": "Sovol Zero 0.4 nozzle",
     "inherits": "fdm_machine_common",
-    "from": "system",
+    "from": "User",
     "setting_id": "GM001",
     "instantiation": "true",
     "printer_model": "Sovol Zero",

@@ -1,7 +1,7 @@
 {
     "type": "machine",
     "name": "fdm_machine_common",
-    "from": "system",
+    "from": "User",
     "instantiation": "false",
     "printer_technology": "FFF",
     "deretraction_speed": [
