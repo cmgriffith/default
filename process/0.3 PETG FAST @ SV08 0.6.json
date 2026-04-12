@@ -1,5 +1,4 @@
 {
-    "type": "process",
     "from": "User",
     "compatible_printers": ["SV08 0.6"],
     "inherits": "0.24mm Draft @MyKlipper",
@@ -11,6 +10,7 @@
     "line_width": "0.66",
     "min_skirt_length": "3",
     "name": "0.3 PETG FAST @ SV08 0.6",
+    "print_settings_id": "0.3 PETG FAST @ SV08 0.6",
     "only_one_wall_first_layer": "1",
     "setting_id": "GP004",
     "instantiation": "true",
@@ -69,7 +69,6 @@
     "overhang_4_4_speed": "10",
     "inner_wall_line_width": "0.6",
     "wall_loops": "2",
-    "print_settings_id": "0.3 PETG FAST @ SV08 0.6",
     "raft_layers": "0",
     "seam_position": "aligned_back",
     "skirt_distance": "0",
