@@ -1,4 +1,4 @@
-{ 
+{
     "type": "process",
     "from": "User",
     "compatible_printers": ["SV08 0.6"],
