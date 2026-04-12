@@ -1,6 +1,8 @@
 {
     "from": "User",
-    "compatible_printers": ["SV08 0.6"],
+    "compatible_printers": [
+        "SV08 0.6"
+    ],
     "inherits": "0.24mm Draft @MyKlipper",
     "brim_type": "no_brim",
     "infill_wall_overlap": "20%",
@@ -25,7 +27,6 @@
     "brim_type": "outer_only",
     "brim_width": "5",
     "brim_object_gap": "0",
-    "compatible_printers_condition": "",
     "print_sequence": "by layer",
     "default_acceleration": "20000",
     "outer_wall_acceleration": "8000",
