@@ -32,7 +32,7 @@
     "outer_wall_speed": "150",
     "print_settings_id": "0.3 PETG FAST @ SV08 0.6",
     "reduce_crossing_wall": "1",
-    "seam_gap": "5",
+    "seam_gap": "5%",
     "seam_position": "back",
     "skirt_distance": "1",
     "skirt_height": "1",
