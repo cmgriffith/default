@@ -1,8 +1,11 @@
 { 
     "type": "process",
-    "inherits": "fdm_process_common",
-    "brim_type": "no_brim",
     "from": "User",
+    "compatible_printers": [
+        "SV08 0.6"
+    ],
+    "inherits": "0.24mm Draft @MyKlipper",
+    "brim_type": "no_brim",
     "infill_wall_overlap": "20%",
     "initial_layer_line_width": "0.54",
     "inner_wall_line_width": "0.66",
@@ -11,7 +14,6 @@
     "min_skirt_length": "3",
     "name": "0.3 PETG FAST @ SV08 0.6",
     "only_one_wall_first_layer": "1",
-    "from": "system",
     "setting_id": "GP004",
     "instantiation": "true",
     "adaptive_layer_height": "1",
@@ -124,8 +126,5 @@
     "seam_gap": "5%",
     "wall_generator": "arachne",
     "gcode_label_objects": "1",
-    "slow_down_layers": "3",
-    "compatible_printers": [
-        "SV08 0.6"
-    ]
+    "slow_down_layers": "3"
 }
