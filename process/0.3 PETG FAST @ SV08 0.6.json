@@ -1,9 +1,7 @@
 { 
     "type": "process",
     "from": "User",
-    "compatible_printers": [
-        "SV08 0.6"
-    ],
+    "compatible_printers": ["SV08 0.6"],
     "inherits": "0.24mm Draft @MyKlipper",
     "brim_type": "no_brim",
     "infill_wall_overlap": "20%",
