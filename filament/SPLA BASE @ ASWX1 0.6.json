@@ -45,7 +45,7 @@
         "80"
     ],
     "filament_settings_id": [
-        "PETG BASE @ ASWX1 0.6"
+        "SPLA BASE @ ASWX1 0.6"
     ],
     "filament_vendor": [
         "Kingroon"
@@ -65,9 +65,12 @@
     ],
     "inherits": "Generic PETG @System",
     "is_custom_defined": "0",
-    "name": "PETG BASE @ ASWX1 0.6",
+    "name": "SPLA BASE @ ASWX1 0.6",
     "nozzle_temperature": [
-        "250"
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
     ],
     "nozzle_temperature_range_high": [
         "280"

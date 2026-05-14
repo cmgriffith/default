@@ -55,7 +55,7 @@
     ],
     "machine_start_gcode": "PRINT_START EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] MATERIAL=[filament_type]\n\n",
     "name": "ASWX1 0.6",
-    "print_host": "192.168.10.182",
+    "print_host": "192.168.10.111",
     "printable_area": [
         "0x0",
         "310x0",
@@ -69,6 +69,7 @@
         "0"
     ],
     "thumbnails": "48x48/PNG, 300x300/PNG",
+    "time_cost": "0.03",
     "version": "2.3.1.10",
     "wipe": [
         "0"

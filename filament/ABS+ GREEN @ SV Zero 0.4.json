@@ -1,54 +1,48 @@
 {
-    "close_fan_the_first_x_layers": [
-        "1"
-    ],
     "compatible_printers": [
-        "ASWX1 0.6"
+    "SV Zero 0.4"
+    ],
+    "chamber_temperature": [
+        "50"
     ],
     "enable_pressure_advance": [
         "1"
     ],
-    "fan_max_speed": [
-        "75"
-    ],
-    "fan_min_speed": [
-        "25"
-    ],
-    "filament_cost": [
+    "fan_cooling_layer_time": [
         "20"
     ],
+    "fan_max_speed": [
+        "20"
+    ],
+    "fan_min_speed": [
+        "5"
+    ],
     "filament_deretraction_speed": [
-        "60"
+        "40"
     ],
     "filament_flow_ratio": [
-        "0.98"
+        "0.97"
     ],
     "filament_max_volumetric_speed": [
-        "25"
-    ],
-    "filament_retract_before_wipe": [
-        "70%"
+        "10"
     ],
     "filament_retract_lift_enforce": [
         "All Surfaces"
-    ],
-    "filament_retract_restart_extra": [
-        "0"
     ],
     "filament_retract_when_changing_layer": [
         "0"
     ],
     "filament_retraction_length": [
-        "0.8"
+        "0.5"
     ],
     "filament_retraction_speed": [
-        "80"
+        "40"
     ],
     "filament_settings_id": [
-        "PETG BASE @ ASWX1 0.6"
+        "ABS+ GREEN @ SV Zero 0.4"
     ],
-    "filament_vendor": [
-        "Kingroon"
+    "filament_shrink": [
+        "99.5%"
     ],
     "filament_wipe": [
         "0"
@@ -57,41 +51,35 @@
         "0.1"
     ],
     "filament_z_hop_types": [
-        "Auto Lift"
+        "Slope Lift"
     ],
     "from": "User",
-    "full_fan_speed_layer": [
-        "3"
+    "hot_plate_temp": [
+        "110"
     ],
-    "inherits": "Generic PETG @System",
+    "inherits": "Generic ABS @System",
     "is_custom_defined": "0",
-    "name": "PETG BASE @ ASWX1 0.6",
+    "name": "ABS+ GREEN @ SV Zero 0.4",
     "nozzle_temperature": [
-        "250"
-    ],
-    "nozzle_temperature_range_high": [
         "280"
     ],
-    "nozzle_temperature_range_low": [
-        "230"
+    "nozzle_temperature_initial_layer": [
+        "280"
     ],
     "overhang_fan_speed": [
-        "80"
+        "40"
     ],
     "pressure_advance": [
-        "0.025"
-    ],
-    "reduce_fan_stop_start_freq": [
-        "0"
+        "0.064"
     ],
     "slow_down_for_layer_cooling": [
         "0"
     ],
     "slow_down_layer_time": [
-        "2"
+        "1"
     ],
     "slow_down_min_speed": [
-        "5"
+        "0"
     ],
     "version": "2.3.1.10"
 }

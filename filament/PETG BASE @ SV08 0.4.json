@@ -87,7 +87,7 @@
         "1.27"
     ],
     "filament_deretraction_speed": [
-        "50"
+        "40"
     ],
     "filament_diameter": [
         "1.75"
@@ -159,7 +159,7 @@
         "nil"
     ],
     "filament_retraction_speed": [
-        "50"
+        "70"
     ],
     "filament_settings_id": [
         "PETG BASE @ SV08 0.4"
